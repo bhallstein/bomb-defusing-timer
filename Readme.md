@@ -17,7 +17,7 @@ npm i
 # Run
 node bomb-defusing-timer.js            # Print usage info
 node bomb-defusing-timer.js 62         # Specify the duration in seconds
-node bomb-defusing-timer.js 62 bright  # Specify the font
+node bomb-defusing-timer.js 62 plain|bright|sinister  # Specify the font
 ```
 
 
